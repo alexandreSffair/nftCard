@@ -9,7 +9,7 @@ Os usuários devem ser capazes de:
 - Visualize o layout ideal dependendo do tamanho da tela do dispositivo
 - Veja os estados de foco para elementos interativos
 
-### Screenshot
+<h2>Screenshot</h2>
 
 ![](./design/desktop-design.jpg)
 
