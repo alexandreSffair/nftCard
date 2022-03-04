@@ -20,7 +20,7 @@ Os usuários devem ser capazes de:
 - - Flexbox
 - - Mobile-first workflow
 
-## Autor
+<h2>Autor</h2>
 
 - Frontend Mentor - [@alexandreSffair](https://www.frontendmentor.io/profile/alexandreSffair)
   Email: alexandresffair@gmail.com
