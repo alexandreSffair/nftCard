@@ -37,7 +37,31 @@ main {
   object-fit: cover;
   object-position: bottom left;
 }
-
+.divfoto{
+  position: relative;
+}
+.divfoto .hover{
+  position:absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--Cyan);
+  top: 0px;
+  border-radius: 15px;
+  transition: 3s ease;
+  opacity: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.divfoto .hover:hover{
+opacity: 0.5;
+}
+.divfoto .hover .imgolho{
+  width: 20%;
+  opacity: 0.8;
+ 
+}
 .container h1 {
   color: var(--Cyan);
   margin: 25px 0 25px 0;
