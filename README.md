@@ -18,9 +18,12 @@ Os usuários devem ser capazes de:
 - HTML5
 - CSS3
 - - Flexbox
-- - Mobile-first workflow
+-  Mobile-first workflow
 
 <h2>Autor</h2>
 
 - Frontend Mentor - [@alexandreSffair](https://www.frontendmentor.io/profile/alexandreSffair)
-  Email: alexandresffair@gmail.com
+- Email: alexandresffair@gmail.com
+
+
+
